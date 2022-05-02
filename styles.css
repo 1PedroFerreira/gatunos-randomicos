@@ -32,10 +32,6 @@ button {
     border-radius: 10px;
 }
 
-#cat {
-	max-height: 400px;
-}
-
 button:hover {
 	background: orange;
 }
